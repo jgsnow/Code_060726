@@ -131,8 +131,8 @@ Directional Statistics.
 
 If you use this software, please cite:
 
-Author et al. (2026), Nature Methods, DOI: xxx
+Ghosh et al. (2026), Nature Methods, DOI: xxx
 
 and the corresponding Zenodo archive:
 
-DOI: https://doi.org/10.5281/zenodo.20436903
+DOI: https://doi.org/10.5281/zenodo.20602046

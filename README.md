@@ -1,4 +1,4 @@
-# Angular Spectrum Analysis for Marine Magnetic Anomaly Classification and Estimation of their Dominant Orientations 
+# Unsupervised Fourier-domain Classification of Marine Magnetic Anomalies and Spectral Estimation of Dominant Orientations
 
 This repository contains Python modules for extracting, characterizing, and classifying directional signatures from two-dimensional anomaly fields using Fourier-domain angular spectrum analysis.
 
